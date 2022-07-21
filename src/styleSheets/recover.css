@@ -1,0 +1,29 @@
+
+.reduce {
+    width: 50vh;
+}
+
+.recuperarcontrasena{
+    position: relative;
+    border-radius: 3px;
+    background: #1b0d10;
+    
+}
+
+.input-text-enterYourEmail{
+    border: none;
+    padding: 8px;
+    border-radius: 3px;
+    width: 100%;
+}
+
+.btn-recover-continue{
+    background:#005CB4 ;
+    border: none;
+    padding: 8px;
+    border-radius: 3px;
+}
+
+.p-span-login-or-register{
+    color: #005CB4;
+}

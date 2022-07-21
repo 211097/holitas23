@@ -1,0 +1,25 @@
+.container-regitrarUsuario{
+    position: relative;
+    border-radius: 3px;
+    background: #1b0d10;
+    
+}
+
+.th{
+    margin-bottom: 20px; 
+}
+.imput-registro{
+    border: none;
+    border-radius: 3px;
+    width: 100%;
+    padding: 8px;
+}
+.btn-regiterHere-singUp{
+    background: #005CB4;
+    border: none;
+    border-radius: 3px;
+    padding: 8px;
+}
+.pregunta-restrate{
+    color: #005CB4;
+}

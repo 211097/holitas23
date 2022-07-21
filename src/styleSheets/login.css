@@ -1,0 +1,64 @@
+p {
+    font-size: 0.8em;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.iniciosecion{
+
+    
+    position: relative;
+    border-radius: 0;
+    background: #1b0d10;
+    border-radius: 0px;
+    top: 0px;
+    
+    
+    
+}
+
+.btn-inicioSecion{
+    position: relative;
+    border: none;
+    width: 100%;
+    margin: 1rem;
+    padding: .5rem;
+    background: white;
+    border-radius: 0px;
+    right: 15px;
+}
+
+.btn-entrarASesion{
+    background: #005CB4;
+    border: none;
+    width: 100%;
+    padding: 8px;
+    border-radius: 3px;
+}
+
+.p-span-pregunta{
+    color: #005CB4;
+    cursor: pointer;
+    
+}
+
+.imput-elemet-wrapper{
+    background: none;
+}
+.btn-inicioSecion{
+
+}
+.btn-passwordd{
+    position: relative;
+    top: -54px;
+    width: 32px;
+    height: 34px;
+    float: right;
+    left: 0px;
+    display: inline-block;
+    outline: none;
+    border: none;
+    background: white;
+}

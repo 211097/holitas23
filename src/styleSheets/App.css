@@ -1,0 +1,62 @@
+.App-header {
+  background-color: #005CB4;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+#circulo{
+  top: 20px;
+  left: 80px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: none;
+  background-image: url('../img/Pepsi-logo-bb62f8f3.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+#conteiner-text{
+  top: 180px;
+  left: 90px;
+  position: absolute;
+  background: none;
+  width: 400px;
+  height: 400px;
+  align-items: center;
+  
+
+}
+
+#conteiner-text h1{
+  position: relative;
+  background: none;
+  font-size: 60px;
+  width: 100%;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 28px;
+  
+}
+#conteiner-text p{
+  background: none;
+  font-size: 20px;
+  color: white;
+  text-align: justify;
+}
+#conteiner-text h1 span{
+  font-weight: 1000;
+  font-size: 78px;
+}
+
+

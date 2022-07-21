@@ -1,0 +1,124 @@
+#div-shop-conten{
+    position: absolute;
+    background: #005CB4;
+
+    width: 100%;
+    height: 150vh;
+    top: 0px;
+
+}
+
+#section-logo-conten{
+background: #1b0d10;
+
+width: 100%;
+height: 40px;
+
+
+
+border-bottom: 4px solid white;
+}
+
+#section-logo-conten h1{
+    position: relative;
+
+
+    top: 6.5px;
+
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+    
+}
+
+
+nav{
+    
+    max-width: 900px;
+    margin: auto;
+    background: #1b0d10;
+    font-size: 20px;
+    margin-top: 0px;
+    
+}
+
+.menu-horizontal{
+    
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.menu-horizontal li a{
+    
+    display: block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu-horizontal li:hover{
+    
+    background-color: #005CB4;
+}
+
+
+
+.menu-vertical{
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 200px;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.menu-horizontal li:hover .menu-vertical{
+    display: block;
+}
+
+.menu-vertical  li:hover{
+    background-color: #C9002B;
+    
+    
+
+}
+
+
+/*--*/
+.div-taarjeta-content{
+    position: relative;
+    height: 480px;
+    width: 350px;
+    left: 130px;
+    top: 170px;
+    border-radius: 0px;
+    align-items: center;
+    margin-right: 16rem;
+
+    float: left;
+
+}
+
+#conten-tarjeta-1{
+    background: #1b0d10;
+}
+#conten-tarjeta-2{
+    background: #1b0d10;
+}
+
+.div-taarjeta-content p{
+    margin: 2rem;
+}
+
+.div-taarjeta-content .picture{
+
+    position: relative;
+    width: 100%;
+    height: 160px;
+
+    background: lightblue;
+    background-image: url(../img/akrales_asus1.jpg);
+    background-size: cover;
+}
